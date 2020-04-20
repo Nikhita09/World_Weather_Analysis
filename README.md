@@ -25,6 +25,19 @@ Software : Python 3.7.7, Anaconda 2019.07, Conda 4.11.7, Jupyter Notebook, Panda
 ## Summary
 
 The two summary dataframes created are:
-  - [Dataframe](weather_data/WeatherPy_challenge.csv)
+  - [WeatherPy_Challenge](weather_data/WeatherPy_challenge.csv)
+  - [WeatherPy_Vacation](weather_data/WeatherPy_vacation.csv)
   
-  - [test](https://github.com/Nikhita09/World_Weather_Analysis/blob/master/weather_data/WeatherPy_challenge.csv)
+The three maps created were:
+
+  - WeatherPy Vacation Map
+  
+  ![](weather_data/WeatherPy_vacation_map.png)
+  
+  - WeatherPy Travel Map
+  
+  ![](weather_data/WeatherPy_travel_map.png)
+  
+  - WeatherPy Travel Map with Markers
+  
+  ![](weather_data/WeatherPy_travel_map_markers.png)
