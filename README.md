@@ -20,7 +20,7 @@ The goals for this challenge are for you to:
 
 Data Source : Created by randomly generating Latitudes and Longitudes
 
-Software : Python 3.7.7, Anaconda 2019.07, Conda 4.11.7, Jupyter Notebook, Pandas, Matplotlib. 
+Software : Python 3.7.7, Anaconda 2019.07, Conda 4.11.7, Jupyter Notebook, Pandas, Matplotlib and Google APIs. 
 
 ## Summary
 
